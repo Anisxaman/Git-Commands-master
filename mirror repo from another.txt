@@ -1,0 +1,4 @@
+git clone --bare [link]
+
+
+git push mirror [link]
