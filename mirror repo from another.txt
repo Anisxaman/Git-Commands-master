@@ -1,4 +1,13 @@
-git clone --bare [link]
+step1:git clone --bare [link]
 
 
-git push mirror [link]
+step2:git push --mirror [link]
+
+
+origin change: 
+--------------------
+
+git remote -v (present origin chk)
+
+
+git remote set-url origin(change origin
